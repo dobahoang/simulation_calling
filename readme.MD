@@ -41,7 +41,7 @@ This application simulates a basic interaction between a user and an LLM (Langua
    Execute the main file to test the application.
 
    ```bash
-   python beapp/action/main.py
+   python beapp/main.py
    ```
 
    You should see output indicating the simulated actions based on the user instructions.
