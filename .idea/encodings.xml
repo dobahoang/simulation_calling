@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/beapp/action" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/beapp/action/data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beapp/action/data/contact.json" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/beapp/requirements.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/requirements.txt" charset="windows-1252" />
+  </component>
+</project>
